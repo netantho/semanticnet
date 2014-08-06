@@ -8,3 +8,7 @@
 bro/
 tags
 *.swp
+dist/
+build/
+semanticnet.egg-info/
+
